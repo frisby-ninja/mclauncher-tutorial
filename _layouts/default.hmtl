@@ -1,1 +1,15 @@
-<HTML>Hi</HTML>
+<!DOCTYPE html>
+<html>
+	<head>
+	<title> Balloon trips </title>
+	<h1><font color="#B676B1">IT'S PARTY TIME!</font></h1>
+	</head>
+
+	<body style="background-color:#FAEBD7;">
+		<a href="INDEX.html">INDEX</a>
+	
+		<br></br>
+		<img src="logo.jpg">
+	</body>
+
+</html>
